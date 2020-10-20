@@ -70,3 +70,5 @@ C:\SO\TEMP\IMAGE TEST\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplicati
 C:\SO\TEMP\IMAGE TEST\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\SO\TEMP\IMAGE TEST\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\SO\TEMP\IMAGE TEST\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SO\ProyectoSO\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Documents\SO\ProyectoSO\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
